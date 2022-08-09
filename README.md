@@ -1,4 +1,4 @@
 # bagus
 
 Setup for Firebase:
-git remote add origing https://github.com/Databackbone/bagus.git
+git remote add origin https://github.com/Databackbone/bagus.git
